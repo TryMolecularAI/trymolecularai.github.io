@@ -21,7 +21,7 @@ repository               : "trymolecularai/trymolecularai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MolecularAI_logo.png"
   name             : "MolecularAI"
   pronouns         : # example: "she/her"  
   bio              : "We aim to revolutionize chemical compound identification"
