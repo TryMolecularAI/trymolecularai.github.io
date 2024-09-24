@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "MolecularAI"
 description              : &description "We aim to revolutionize chemical compound identification"
 url                      : https://trymolecularai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "year-archive/" # the subpath of your site, e.g. "/blog"
 repository               : "trymolecularai/trymolecularai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
